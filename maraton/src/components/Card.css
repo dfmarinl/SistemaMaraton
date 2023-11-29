@@ -1,0 +1,99 @@
+.Card {
+
+  background-image: url('https://img.freepik.com/vector-premium/fondo-espacio-blanco-tecnologia-corporativa-onda-negra_7081-3244.jpg?w=900');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  width: 90%;
+  
+  
+  background-color: #000103;
+  padding: 40px;
+  text-align: center;
+  text-size-adjust: 25%;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+
+  border: 2px solid #444;
+  border-radius: 40px;
+  box-shadow: 2px 2px 5px #06000033;
+
+  
+}
+
+.Cuadrilla{
+
+  background-image: url('https://img.freepik.com/fotos-premium/fondo-textura-placa-circuito-negro_105034-1399.jpg?w=996');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  width: 90%;
+  
+  
+  background-color: #000103;
+  padding: 40px;
+  text-align: center;
+  text-size-adjust: 25%;
+  font-size: 18px;
+  font-style: oblique;
+  font-family: 'Open Sans', sans-serif;
+
+  border: 2px solid #444;
+  border-radius: 40px;
+  box-shadow: 2px 2px 5px #06000033;
+
+  
+}
+
+.Boton{
+  background-image: url("https://img.freepik.com/fotos-premium/textura-metal-negro_46370-2902.jpg?w=900");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 0px;
+  cursor: auto;
+}
+
+.BotonVolver{
+  background-image: url("https://img.freepik.com/foto-gratis/fondo-metal-grunge-textura-metal-pulido-rojo_1048-13127.jpg?w=740&t=st=1700851336~exp=1700851936~hmac=2f01582226a42dd64daef5191c351ffc8ca86d4a5d16fa1ba1128997fb7529e2");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  background-color: #000000;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 0px;
+  cursor: auto;
+}
+
+.Barra{
+  background-image: url("https://img.freepik.com/fotos-premium/fondo-textura-pared-ladrillo-negro-vintage_293060-10609.jpg?w=900");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  background-color: #000000;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  border-radius: 0px;
+  border-width: 2px;
+  cursor: auto;
+}
+
+.Tabla{
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
